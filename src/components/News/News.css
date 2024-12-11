@@ -1,0 +1,65 @@
+/* News.css */
+.news-container {
+    margin: 20px auto;
+    width: 90%;
+  }
+  
+  .news-header {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .news-analytics-heading {
+    text-align: center;
+    margin: 40px 0 20px 0;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #a5a2a2;
+    border-bottom: 2px solid #ccc;
+    display: inline-block;
+    padding-bottom: 10px;
+  }
+  
+  .analytics-section {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+  }
+  
+  .chart-container {
+    width: 45%;
+    min-width: 300px;
+  }
+  
+  .news-header {
+    text-align: center;
+    font-size: 2rem;
+    margin: 20px 0;
+  }
+  
+  .export-section {
+    text-align: center;
+    margin: 30px 0;
+  }
+  
+  .news-analytics-heading {
+    text-align: center;
+    font-size: 1.5rem;
+    margin: 20px 0;
+  }
+  
+  .analytics-section {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .chart-container {
+    width: 50%;
+    margin: auto;
+  }
+  
